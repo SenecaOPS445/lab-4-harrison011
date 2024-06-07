@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # Strings 1
+#Author: Harrison Iruthayathas
+#Author ID: hiruthayathas
 
 str1 = 'Hello World!!'
 str2 = 'Seneca College'

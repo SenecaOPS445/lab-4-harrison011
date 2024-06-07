@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-# Author ID: hiruthayathas
+#Author: Harrison Iruthayathas
+#Author ID: hiruthayathas
 
 def is_digits(sobj):
     # place code here - loop through each character in sobj 

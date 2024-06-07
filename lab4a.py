@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+#Author: Harrison Iruthayathas
+#Author ID: hiruthayathas
 
 def join_sets(s1, s2):
     # join_sets will return a set that contains every value from both 

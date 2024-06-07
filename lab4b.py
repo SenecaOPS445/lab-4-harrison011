@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+#Author: Harrison Iruthayathas
+#Author ID: hiruthayathas
 
 def join_lists(l1, l2):
     # join_lists will return a list that contains every value from 
